@@ -7,7 +7,12 @@ This is a simple Selenium WebDriver test written in JavaScript.
 
 Before running this test, you need to have Node.js and npm installed on your machine. You also need to install the Selenium WebDriver library for JavaScript.
 
-1. install [Node.js](https://nodejs.org/en)
-2. ```bash npm install selenium-webdriver
-3. Run this test file by:
-   ```bash node test.js
+install [Node.js](https://nodejs.org/en)
+install NPM
+   ```
+   npm install selenium-webdriver
+   ```
+Run this test file by:
+   ```
+   node test.js
+   ```
