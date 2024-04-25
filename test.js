@@ -77,7 +77,7 @@ async function runTest() {
                 right = mid;
             }else if(result === ">") {
                 console.log('the fake is in right');
-                if(left + 2 === right) return right;
+                if(left + 2 === right) return mid;
                 left = mid;
             }else{
                 console.log('No result shown on the result button');
